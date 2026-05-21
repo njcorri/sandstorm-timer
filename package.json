@@ -1,0 +1,12 @@
+{
+  "name": "sandstorm-timer",
+  "version": "1.0.0",
+  "description": "1-minute countdown timer with Sandstorm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
